@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}Publications{% endblock %}
+{% block content %}
+
+<script type="text/javascript">
+    function disp(s) {
+        var win;
+        var doc;
+        win = window.open("", "WINDOWID");
+        doc = win.document;
+        doc.open("text/plain");
+        doc.write("<pre>" + s + "</pre>");
+        doc.close();
+    }
+</script>
+<section id="content" class="body">
+    <h1 class="entry-title">Publications</h1>
+    <ul>
+        {% for publication in publications %}
+          <li id="{{ publication.key }}">{{ publication.text }}
+          [&nbsp;<a href="javascript:disp('{{ publication.bibtex|replace('\n', '\\n')|escape|forceescape }}');">Bibtex</a>&nbsp;]
+          {% for label, target in [('PDF', publication.pdf), ('Slides', publication.slides), ('Poster', publication.poster)] %}
+            {{ "[&nbsp;<a href=\"%s\">%s</a>&nbsp;]" % (target, label) if target }}
+          {% endfor %}
+          </li>
+        {% endfor %}
+    </ul>
+</section>
+{% endblock %}

@@ -1,0 +1,4 @@
+pre-commit
+pelican
+pelican-bib
+ghp-import
