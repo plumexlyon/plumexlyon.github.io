@@ -27,7 +27,7 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
-STATIC_PATHS = ["img", "pdf"]
+STATIC_PATHS = ["img", "pdf", "pages/img"]
 
 PLUGINS = ["pelican_bib"]
 PUBLICATIONS_SRC = "content/pubs.bib"
