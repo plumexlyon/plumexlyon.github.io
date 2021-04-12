@@ -20,5 +20,5 @@ Partenaires du projet :
 
 * **J John Soundar Jerome**, `LMFA (UMR CNRS 5509) <https://lmfa.ec-lyon.fr/spip.php?article1&lang=fr>`_ Recherche : Interaction fluide/structure, Milieux granulaires denses, Suspensions, Écoulements diphasiques, Atomisation, Instabilités hydrodynamiques
 
-.. image:: img/logoLABS.png
+.. image:: img/logoLABS_1024x309.png
 
