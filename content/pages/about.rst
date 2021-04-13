@@ -1,4 +1,4 @@
-A propos
+À propos
 ========
 
 :date: 2021-04-12 18:00
@@ -7,6 +7,7 @@ PlumeX est une plateforme financée par le `Labex iMust <https://labeximust.univ
 de l'`Université de Lyon <https://www.universite-lyon.fr/>`_.
 
 .. image:: img/iMUST.png
+   :alt: Labex iMust
 
 Partenaires du projet :
 
@@ -21,4 +22,5 @@ Partenaires du projet :
 * **J John Soundar Jerome**, `LMFA (UMR CNRS 5509) <https://lmfa.ec-lyon.fr/spip.php?article1&lang=fr>`_ Recherche : Interaction fluide/structure, Milieux granulaires denses, Suspensions, Écoulements diphasiques, Atomisation, Instabilités hydrodynamiques
 
 .. image:: img/logoLABS_1024x309.png
+   :alt: Logos of Laboratories
 
