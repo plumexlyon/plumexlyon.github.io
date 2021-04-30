@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Plateforme PlumeX</title><link href="https://plumexlyon.github.io/" rel="alternate"></link><link href="https://plumexlyon.github.io/feeds/all.atom.xml" rel="self"></link><id>https://plumexlyon.github.io/</id><updated>2021-07-08T14:00:00+02:00</updated><entry><title>Soutenance de Christopher Madec</title><link href="https://plumexlyon.github.io/soutenance-de-christopher-madec.html" rel="alternate"></link><published>2021-07-08T14:00:00+02:00</published><updated>2021-07-08T14:00:00+02:00</updated><author><name>PlumeX collaboration</name></author><id>tag:plumexlyon.github.io,2021-07-08:/soutenance-de-christopher-madec.html</id><content type="html">&lt;p&gt;Christopher soutiendra sa thèse le 8 juillet 2021.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Plateforme PlumeX</title><link href="https://plumexlyon.github.io/" rel="alternate"></link><link href="https://plumexlyon.github.io/feeds/all.atom.xml" rel="self"></link><id>https://plumexlyon.github.io/</id><updated>2021-07-08T14:00:00+02:00</updated><entry><title>Soutenance de Christopher Madec</title><link href="https://plumexlyon.github.io/soutenance-de-christopher-madec.html" rel="alternate"></link><published>2021-07-08T14:00:00+02:00</published><updated>2021-07-08T14:00:00+02:00</updated><author><name>PlumeX collaboration</name></author><id>tag:plumexlyon.github.io,2021-07-08:/soutenance-de-christopher-madec.html</id><summary type="html">&lt;p&gt;Christopher Madec, en thèse sous la direction de Sylvain Joubaud et J. John
+Soundar Jérôme, soutiendra sa thèse le 8 juillet 2021.
+Sa thèse s'intitule «&amp;nbsp;Remontée de bulle(s) au sein d'une suspension dans une cellule de
+Hele-Shaw&amp;nbsp;».&lt;/p&gt;
+&lt;p&gt;Le projet PlumeX a permis l'acquisition du matériel nécessaire à la fabrication …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Christopher Madec, en thèse sous la direction de Sylvain Joubaud et J. John
+Soundar Jérôme, soutiendra sa thèse le 8 juillet 2021.
+Sa thèse s'intitule «&amp;nbsp;Remontée de bulle(s) au sein d'une suspension dans une cellule de
+Hele-Shaw&amp;nbsp;».&lt;/p&gt;
+&lt;p&gt;Le projet PlumeX a permis l'acquisition du matériel nécessaire à la fabrication des échantillons,
+ainsi qu'à l'acquisition des données.&lt;/p&gt;
 </content><category term="misc"></category></entry><entry><title>Mis à jour du site web</title><link href="https://plumexlyon.github.io/mis-a-jour-du-site-web.html" rel="alternate"></link><published>2021-04-12T18:00:00+02:00</published><updated>2021-04-12T18:00:00+02:00</updated><author><name>PlumeX collaboration</name></author><id>tag:plumexlyon.github.io,2021-04-12:/mis-a-jour-du-site-web.html</id><content type="html">&lt;p&gt;Nouveautés sur le site web de la plateforme PlumeX:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Liste des publications&lt;/li&gt;
