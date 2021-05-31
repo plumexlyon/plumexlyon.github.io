@@ -9,6 +9,10 @@ Sa thèse s'intitule «&amp;nbsp;Remontée de bulle(s) au sein d'une suspension 
 Hele-Shaw&amp;nbsp;».&lt;/p&gt;
 &lt;p&gt;Le projet PlumeX a permis l'acquisition du matériel nécessaire à la fabrication des échantillons,
 ainsi qu'à l'acquisition des données.&lt;/p&gt;
+</content><category term="misc"></category></entry><entry><title>Mise à disposition des scripts de LIF</title><link href="https://plumexlyon.github.io/mise-a-disposition-des-scripts-de-lif.html" rel="alternate"></link><published>2021-05-31T17:00:00+02:00</published><updated>2021-05-31T17:00:00+02:00</updated><author><name>PlumeX collaboration</name></author><id>tag:plumexlyon.github.io,2021-05-31:/mise-a-disposition-des-scripts-de-lif.html</id><content type="html">&lt;p&gt;Les scripts de traitement des images de LIF mis au point par Clément Toupoint pendant
+son post-doc sur le projet sont désormais disponible sur &lt;a class="reference external" href="https://github.com/plumexlyon/lif_matlab"&gt;GitHub&lt;/a&gt;.
+La procédure pour la calibration et la mise en œuvre pratique dans la cellule de convection
+est décrite dans la &lt;a class="reference external" href="https://plumex-lif.readthedocs.io/en/latest"&gt;documentation&lt;/a&gt;.&lt;/p&gt;
 </content><category term="misc"></category></entry><entry><title>Mis à jour du site web</title><link href="https://plumexlyon.github.io/mis-a-jour-du-site-web.html" rel="alternate"></link><published>2021-04-12T18:00:00+02:00</published><updated>2021-04-12T18:00:00+02:00</updated><author><name>PlumeX collaboration</name></author><id>tag:plumexlyon.github.io,2021-04-12:/mis-a-jour-du-site-web.html</id><content type="html">&lt;p&gt;Nouveautés sur le site web de la plateforme PlumeX:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Liste des publications&lt;/li&gt;
