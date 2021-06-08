@@ -9,6 +9,40 @@ Sa thèse s'intitule «&amp;nbsp;Remontée de bulle(s) au sein d'une suspension 
 Hele-Shaw&amp;nbsp;».&lt;/p&gt;
 &lt;p&gt;Le projet PlumeX a permis l'acquisition du matériel nécessaire à la fabrication des échantillons,
 ainsi qu'à l'acquisition des données.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Résumé en anglais&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Multiphase flow involving gas, liquid, and solid particles plays a vital role
+in catalytic fluidized beds, subsea gas release, and even in avalanches and
+volcanic eruptions. Bubble rise and interactions is a fundamental ingredient
+for many such industrial processes and geophysical phenomena. Here, the
+canonical problem of the rising motion of a single bubble and bubble-bubble
+interactions is investigated in a Hele-Shaw cell containing a granular
+suspension through simple experiments and theoretical models.&lt;/p&gt;
+&lt;p&gt;In a Newtonian liquid, it is shown that the rise velocity &lt;span class="formula"&gt;&lt;i&gt;v&lt;/i&gt;&lt;sub&gt;&lt;i&gt;b&lt;/i&gt;&lt;/sub&gt;&lt;/span&gt; of a single
+bubble of diameter &lt;span class="formula"&gt;&lt;i&gt;d&lt;/i&gt;&lt;sub&gt;&lt;i&gt;b&lt;/i&gt;&lt;/sub&gt;&lt;/span&gt; evolving between two plates separated by a thickness
+&lt;span class="formula"&gt;&lt;i&gt;h&lt;/i&gt;&lt;/span&gt; increases with &lt;span class="formula"&gt;&lt;i&gt;d&lt;/i&gt;&lt;sub&gt;&lt;i&gt;b&lt;/i&gt;&lt;/sub&gt;&lt;/span&gt; up to a maximum value for &lt;span class="formula"&gt;&lt;i&gt;d&lt;/i&gt;&lt;sub&gt;&lt;i&gt;b&lt;/i&gt;&lt;/sub&gt;≫&lt;i&gt;h&lt;/i&gt;&lt;/span&gt;, when the
+Reynolds number &lt;span class="formula"&gt;&lt;i&gt;Re&lt;/i&gt; = &lt;i&gt;v&lt;/i&gt;&lt;span class="scripts"&gt;&lt;sub class="script"&gt;&lt;i&gt;b&lt;/i&gt;&lt;/sub&gt;&lt;sub class="script"&gt;&lt;i&gt;bd&lt;/i&gt;&lt;/sub&gt;&lt;/span&gt; ⁄ &lt;i&gt;ν&lt;/i&gt;&lt;sub&gt;&lt;i&gt;f&lt;/i&gt;&lt;/sub&gt;(&lt;i&gt;h&lt;/i&gt; ⁄ &lt;i&gt;d&lt;/i&gt;&lt;sub&gt;&lt;i&gt;b&lt;/i&gt;&lt;/sub&gt;)&lt;sup&gt;2&lt;/sup&gt;&lt;/span&gt; is very small.
+In the case of a neutrally-buoyant non-Brownian suspension, bubble speed is
+demonstrated to be faster in suspensions than in particle-less liquids of the
+same effective viscosity. By carefully measuring this bubble speed increase at
+various particle volume fraction and via velocity field imaging, this new
+bubble dynamics is linked to a reduction in the bulk dissipation rate. A good
+match between our experimental data and computations based on Suspension
+Balance Model illustrates that the underlying mechanism for this
+dissipation-rate deficit is related to a non-uniform particle distribution in
+the direction perpendicular to the channel walls due to shear-induced particle
+migration.&lt;/p&gt;
+&lt;p&gt;The second part of this thesis deals with the dynamics of bubble-bubble
+interactions and bubble chains rising in a Newtonian liquid.
+When several bubbles interact with each other, they first show a steady
+approach, they accelerate and undergo sharp shape changes until they come into
+contact. By considering the neighboring bubble's influence on the pressure
+field and the reduction in the dissipation, it is possible to qualitatively
+describe the bubble merging process. After merging, the bubble chain remains
+intact and their dynamics, when compared to the single bubble rise, is slower.
+In addition, spatial reorganizations within the same train of bubbles are
+observed.&lt;/p&gt;
+&lt;p&gt;These results provide a promising avenue for studying bubble-bubble merging and
+bubble(s)-particle interaction in the context of complex multiphase flow.&lt;/p&gt;
 </content><category term="misc"></category></entry><entry><title>Mise à disposition des scripts de LIF</title><link href="https://plumexlyon.github.io/mise-a-disposition-des-scripts-de-lif.html" rel="alternate"></link><published>2021-05-31T17:00:00+02:00</published><updated>2021-05-31T17:00:00+02:00</updated><author><name>PlumeX collaboration</name></author><id>tag:plumexlyon.github.io,2021-05-31:/mise-a-disposition-des-scripts-de-lif.html</id><content type="html">&lt;p&gt;Les scripts de traitement des images de LIF mis au point par Clément Toupoint pendant
 son post-doc sur le projet sont désormais disponible sur &lt;a class="reference external" href="https://github.com/plumexlyon/lif_matlab"&gt;GitHub&lt;/a&gt;.
 La procédure pour la calibration et la mise en œuvre pratique dans la cellule de convection
