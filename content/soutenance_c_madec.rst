@@ -11,41 +11,45 @@ Hele-Shaw ».
 Le projet PlumeX a permis l'acquisition du matériel nécessaire à la fabrication des échantillons,
 ainsi qu'à l'acquisition des données.
 
-**Résumé en anglais**
+**Résumé**
 
-Multiphase flow involving gas, liquid, and solid particles plays a vital role
-in catalytic fluidized beds, subsea gas release, and even in avalanches and
-volcanic eruptions. Bubble rise and interactions is a fundamental ingredient
-for many such industrial processes and geophysical phenomena. Here, the
-canonical problem of the rising motion of a single bubble and bubble-bubble
-interactions is investigated in a Hele-Shaw cell containing a granular
-suspension through simple experiments and theoretical models.
+Les écoulements multiphasiques impliquant des gaz, liquides et particules
+solides jouent un rôle essentiel dans les réacteurs à lit fluidisés, les
+dégagements de gaz sous-marins, et même dans les avalanches et les éruptions
+volcaniques. La remontée de bulles sont des phénomènes fondamentaux pour
+beaucoup de processus industriels et géophysiques. Dans cette thèse, le
+problème de la remontée d'une bulle isolée et des interactions de bulles
+multiples est étudié dans une cellule de Hele-Shaw contenant une suspension
+granulaire par le biais d'expériences et de modèles théoriques simples.
 
-In a Newtonian liquid, it is shown that the rise velocity :math:`v_b` of a single
-bubble of diameter :math:`d_b` evolving between two plates separated by a thickness
-:math:`h` increases with :math:`d_b` up to a maximum value for :math:`d_b \gg h`, when the
-Reynolds number :math:`Re = v_bd_b/\nu_f(h/d_b)^2` is very small.
-In the case of a neutrally-buoyant non-Brownian suspension, bubble speed is
-demonstrated to be faster in suspensions than in particle-less liquids of the
-same effective viscosity. By carefully measuring this bubble speed increase at
-various particle volume fraction and via velocity field imaging, this new
-bubble dynamics is linked to a reduction in the bulk dissipation rate. A good
-match between our experimental data and computations based on Suspension
-Balance Model illustrates that the underlying mechanism for this
-dissipation-rate deficit is related to a non-uniform particle distribution in
-the direction perpendicular to the channel walls due to shear-induced particle
-migration.
+Dans un liquide Newtonien, il a été montré que la vitesse de remontée :math:`v_b`
+d'une bulle isolée de diamètre :math:`d_b` évoluant entre deux plaques séparées d'une
+épaisseur :math:`h` augmente avec :math:`d_b` jusqu'à une valeur terminale
+lorsque :math:`d_b \gg h`, pour des nombres de Reynolds
+:math:`Re = \frac{v_bd_b}{\nu_f(h/d_b)^2}`
+très faibles.
+Dans le cas d'une suspension granulaire non-Brownienne isodense, nous avons
+montré que la vitesse de remontée des bulles est plus rapide dans une
+suspension que dans un liquide pur sans grains de même viscosité effective. En
+mesurant soigneusement ce surplus de vitesse pour différentes fractions
+volumiques et par imagerie du champ de vitesses de l'écoulement, cette
+dynamique est alors reliée à une réduction de la dissipation visqueuse au sein
+de la cellule. Un bon accord avec nos données expérimentales et des calculs
+basés sur le Suspension Balance Model illustrent que le mécanisme sous-jacent
+au déficit du taux de dissipation est lié à une distribution non-uniforme des
+particules dans la direction perpendiculaire aux plaques de verre en raison de
+la migration de particules induite par cisaillement.
 
-The second part of this thesis deals with the dynamics of bubble-bubble
-interactions and bubble chains rising in a Newtonian liquid.
-When several bubbles interact with each other, they first show a steady
-approach, they accelerate and undergo sharp shape changes until they come into
-contact. By considering the neighboring bubble's influence on the pressure
-field and the reduction in the dissipation, it is possible to qualitatively
-describe the bubble merging process. After merging, the bubble chain remains
-intact and their dynamics, when compared to the single bubble rise, is slower.
-In addition, spatial reorganizations within the same train of bubbles are
-observed.
+La seconde partie de cette thèse porte sur la dynamique des interactions
+bulle-bulle et des trains de bulles remontant dans un liquide Newtonien.
+Lorsque plusieurs bulles interagissent entre elles, elles accélèrent et
+subissent de forts changements de forme jusqu'à ce qu'elles entrent en contact.
+En considérant l'influence d'une bulle voisine sur le champ de pression et la
+réduction de la dissipation visqueuse, il est alors possible de décrire
+qualitativement la dynamique d'approche. Après contact, le train de bulle formé
+reste intact et sa dynamique, comparée à la remontée d'une bulle isolée, est
+plus lente. De plus, des réorganisations spatiales au sein d'un même train sont
+observées.
 
-These results provide a promising avenue for studying bubble-bubble merging and
-bubble(s)-particle interaction in the context of complex multiphase flow.
+Ces résultats offrent une voie prometteuse pour étudier les interactions de
+bulles multiples dans les suspensions granulaires.
