@@ -9,40 +9,44 @@ Sa thèse s'intitule «&amp;nbsp;Remontée de bulle(s) au sein d'une suspension 
 Hele-Shaw&amp;nbsp;».&lt;/p&gt;
 &lt;p&gt;Le projet PlumeX a permis l'acquisition du matériel nécessaire à la fabrication des échantillons,
 ainsi qu'à l'acquisition des données.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Résumé en anglais&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Multiphase flow involving gas, liquid, and solid particles plays a vital role
-in catalytic fluidized beds, subsea gas release, and even in avalanches and
-volcanic eruptions. Bubble rise and interactions is a fundamental ingredient
-for many such industrial processes and geophysical phenomena. Here, the
-canonical problem of the rising motion of a single bubble and bubble-bubble
-interactions is investigated in a Hele-Shaw cell containing a granular
-suspension through simple experiments and theoretical models.&lt;/p&gt;
-&lt;p&gt;In a Newtonian liquid, it is shown that the rise velocity &lt;span class="formula"&gt;&lt;i&gt;v&lt;/i&gt;&lt;sub&gt;&lt;i&gt;b&lt;/i&gt;&lt;/sub&gt;&lt;/span&gt; of a single
-bubble of diameter &lt;span class="formula"&gt;&lt;i&gt;d&lt;/i&gt;&lt;sub&gt;&lt;i&gt;b&lt;/i&gt;&lt;/sub&gt;&lt;/span&gt; evolving between two plates separated by a thickness
-&lt;span class="formula"&gt;&lt;i&gt;h&lt;/i&gt;&lt;/span&gt; increases with &lt;span class="formula"&gt;&lt;i&gt;d&lt;/i&gt;&lt;sub&gt;&lt;i&gt;b&lt;/i&gt;&lt;/sub&gt;&lt;/span&gt; up to a maximum value for &lt;span class="formula"&gt;&lt;i&gt;d&lt;/i&gt;&lt;sub&gt;&lt;i&gt;b&lt;/i&gt;&lt;/sub&gt;≫&lt;i&gt;h&lt;/i&gt;&lt;/span&gt;, when the
-Reynolds number &lt;span class="formula"&gt;&lt;i&gt;Re&lt;/i&gt; = &lt;i&gt;v&lt;/i&gt;&lt;span class="scripts"&gt;&lt;sub class="script"&gt;&lt;i&gt;b&lt;/i&gt;&lt;/sub&gt;&lt;sub class="script"&gt;&lt;i&gt;bd&lt;/i&gt;&lt;/sub&gt;&lt;/span&gt; ⁄ &lt;i&gt;ν&lt;/i&gt;&lt;sub&gt;&lt;i&gt;f&lt;/i&gt;&lt;/sub&gt;(&lt;i&gt;h&lt;/i&gt; ⁄ &lt;i&gt;d&lt;/i&gt;&lt;sub&gt;&lt;i&gt;b&lt;/i&gt;&lt;/sub&gt;)&lt;sup&gt;2&lt;/sup&gt;&lt;/span&gt; is very small.
-In the case of a neutrally-buoyant non-Brownian suspension, bubble speed is
-demonstrated to be faster in suspensions than in particle-less liquids of the
-same effective viscosity. By carefully measuring this bubble speed increase at
-various particle volume fraction and via velocity field imaging, this new
-bubble dynamics is linked to a reduction in the bulk dissipation rate. A good
-match between our experimental data and computations based on Suspension
-Balance Model illustrates that the underlying mechanism for this
-dissipation-rate deficit is related to a non-uniform particle distribution in
-the direction perpendicular to the channel walls due to shear-induced particle
-migration.&lt;/p&gt;
-&lt;p&gt;The second part of this thesis deals with the dynamics of bubble-bubble
-interactions and bubble chains rising in a Newtonian liquid.
-When several bubbles interact with each other, they first show a steady
-approach, they accelerate and undergo sharp shape changes until they come into
-contact. By considering the neighboring bubble's influence on the pressure
-field and the reduction in the dissipation, it is possible to qualitatively
-describe the bubble merging process. After merging, the bubble chain remains
-intact and their dynamics, when compared to the single bubble rise, is slower.
-In addition, spatial reorganizations within the same train of bubbles are
-observed.&lt;/p&gt;
-&lt;p&gt;These results provide a promising avenue for studying bubble-bubble merging and
-bubble(s)-particle interaction in the context of complex multiphase flow.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Résumé&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Les écoulements multiphasiques impliquant des gaz, liquides et particules
+solides jouent un rôle essentiel dans les réacteurs à lit fluidisés, les
+dégagements de gaz sous-marins, et même dans les avalanches et les éruptions
+volcaniques. La remontée de bulles sont des phénomènes fondamentaux pour
+beaucoup de processus industriels et géophysiques. Dans cette thèse, le
+problème de la remontée d'une bulle isolée et des interactions de bulles
+multiples est étudié dans une cellule de Hele-Shaw contenant une suspension
+granulaire par le biais d'expériences et de modèles théoriques simples.&lt;/p&gt;
+&lt;p&gt;Dans un liquide Newtonien, il a été montré que la vitesse de remontée &lt;span class="formula"&gt;&lt;i&gt;v&lt;/i&gt;&lt;sub&gt;&lt;i&gt;b&lt;/i&gt;&lt;/sub&gt;&lt;/span&gt;
+d'une bulle isolée de diamètre &lt;span class="formula"&gt;&lt;i&gt;d&lt;/i&gt;&lt;sub&gt;&lt;i&gt;b&lt;/i&gt;&lt;/sub&gt;&lt;/span&gt; évoluant entre deux plaques séparées d'une
+épaisseur &lt;span class="formula"&gt;&lt;i&gt;h&lt;/i&gt;&lt;/span&gt; augmente avec &lt;span class="formula"&gt;&lt;i&gt;d&lt;/i&gt;&lt;sub&gt;&lt;i&gt;b&lt;/i&gt;&lt;/sub&gt;&lt;/span&gt; jusqu'à une valeur terminale
+lorsque &lt;span class="formula"&gt;&lt;i&gt;d&lt;/i&gt;&lt;sub&gt;&lt;i&gt;b&lt;/i&gt;&lt;/sub&gt;≫&lt;i&gt;h&lt;/i&gt;&lt;/span&gt;, pour des nombres de Reynolds
+&lt;span class="formula"&gt;&lt;i&gt;Re&lt;/i&gt; = &lt;span class="fraction"&gt;&lt;span class="ignored"&gt;(&lt;/span&gt;&lt;span class="numerator"&gt;&lt;i&gt;v&lt;/i&gt;&lt;span class="scripts"&gt;&lt;sub class="script"&gt;&lt;i&gt;b&lt;/i&gt;&lt;/sub&gt;&lt;sub class="script"&gt;&lt;i&gt;bd&lt;/i&gt;&lt;/sub&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="ignored"&gt;)/(&lt;/span&gt;&lt;span class="denominator"&gt;&lt;i&gt;ν&lt;/i&gt;&lt;sub&gt;&lt;i&gt;f&lt;/i&gt;&lt;/sub&gt;(&lt;i&gt;h&lt;/i&gt; ⁄ &lt;i&gt;d&lt;/i&gt;&lt;sub&gt;&lt;i&gt;b&lt;/i&gt;&lt;/sub&gt;)&lt;sup&gt;2&lt;/sup&gt;&lt;/span&gt;&lt;span class="ignored"&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+très faibles.
+Dans le cas d'une suspension granulaire non-Brownienne isodense, nous avons
+montré que la vitesse de remontée des bulles est plus rapide dans une
+suspension que dans un liquide pur sans grains de même viscosité effective. En
+mesurant soigneusement ce surplus de vitesse pour différentes fractions
+volumiques et par imagerie du champ de vitesses de l'écoulement, cette
+dynamique est alors reliée à une réduction de la dissipation visqueuse au sein
+de la cellule. Un bon accord avec nos données expérimentales et des calculs
+basés sur le Suspension Balance Model illustrent que le mécanisme sous-jacent
+au déficit du taux de dissipation est lié à une distribution non-uniforme des
+particules dans la direction perpendiculaire aux plaques de verre en raison de
+la migration de particules induite par cisaillement.&lt;/p&gt;
+&lt;p&gt;La seconde partie de cette thèse porte sur la dynamique des interactions
+bulle-bulle et des trains de bulles remontant dans un liquide Newtonien.
+Lorsque plusieurs bulles interagissent entre elles, elles accélèrent et
+subissent de forts changements de forme jusqu'à ce qu'elles entrent en contact.
+En considérant l'influence d'une bulle voisine sur le champ de pression et la
+réduction de la dissipation visqueuse, il est alors possible de décrire
+qualitativement la dynamique d'approche. Après contact, le train de bulle formé
+reste intact et sa dynamique, comparée à la remontée d'une bulle isolée, est
+plus lente. De plus, des réorganisations spatiales au sein d'un même train sont
+observées.&lt;/p&gt;
+&lt;p&gt;Ces résultats offrent une voie prometteuse pour étudier les interactions de
+bulles multiples dans les suspensions granulaires.&lt;/p&gt;
 </content><category term="misc"></category></entry><entry><title>Mise à disposition des scripts de LIF</title><link href="https://plumexlyon.github.io/mise-a-disposition-des-scripts-de-lif.html" rel="alternate"></link><published>2021-05-31T17:00:00+02:00</published><updated>2021-05-31T17:00:00+02:00</updated><author><name>PlumeX collaboration</name></author><id>tag:plumexlyon.github.io,2021-05-31:/mise-a-disposition-des-scripts-de-lif.html</id><content type="html">&lt;p&gt;Les scripts de traitement des images de LIF mis au point par Clément Toupoint pendant
 son post-doc sur le projet sont désormais disponible sur &lt;a class="reference external" href="https://github.com/plumexlyon/lif_matlab"&gt;GitHub&lt;/a&gt;.
 La procédure pour la calibration et la mise en œuvre pratique dans la cellule de convection
